@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 78c7af92f6313b547ad259eb96d62404
+timeCreated: 1492732094
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 8
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Enchanted Land
+  fontNames:
+  - Enchanted Land
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b5eb4132642b444ebea8ffc43892180, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

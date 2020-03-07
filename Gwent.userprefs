@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Slider Menu\Scripts\GetName.cs">
+    <Files>
+      <File FileName="Assets\Slider Menu\Scripts\SliderMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Slider Menu\Scripts\CardDetail.cs" Line="157" Column="3" />
+      <File FileName="Assets\Slider Menu\Scripts\GetName.cs" Line="27" Column="17" />
+      <File FileName="Assets\Slider Menu\Scripts\Values.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
